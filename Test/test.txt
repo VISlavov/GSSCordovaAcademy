@@ -1,3 +1,0 @@
-testdasfasdfasdfadf
-function method1() { return 1;}
-function method2() { return 0;}
