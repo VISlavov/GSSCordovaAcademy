@@ -1,0 +1,12 @@
+body {
+  background-image: url("imgs/download.jpg") ;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 600px;
+}
+
+h1 {
+  size : 1000px;
+  margin-left: 20px;
+  background-color: white;
+}
