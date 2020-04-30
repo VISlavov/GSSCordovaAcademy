@@ -1,0 +1,11 @@
+form{
+    text-align: center;  
+}
+input[type="submit"]{
+    border-color: gray;
+    border-style: dashed;
+    border-width: 6px;
+    text-align: left;
+   
+}
+
