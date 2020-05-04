@@ -1,0 +1,9 @@
+{
+    "name": "credentials-app",
+    "version": "1.0.0",
+    "description": "Example credential application",
+    "dependencies": {
+        "bootstrap": "^4.3.1",
+        "jquery": "3.5.0"
+    }
+}
